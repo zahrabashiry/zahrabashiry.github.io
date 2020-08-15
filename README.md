@@ -1,4 +1,4 @@
-###<img src="file:///C:/Users/Administrator/Pictures/avatar-01.jpg">
+### <img src="https://github.com/zahrabashiry/zahrabashiry.github.io/blob/master/file:/C:/Users/Administrator/Pictures/avatar-01.jpg">
 # zahrabashiry.github.io
 ### rezume
 ---
