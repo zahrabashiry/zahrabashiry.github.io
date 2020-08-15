@@ -5,8 +5,6 @@ tel  :09228055806 <br/>
 mail :zahrabashiry306@gmail.com <br/>
 
 <a href="#p1">https://guera.ir/profile/zahra361</a>
-<center id="p1"><h1>()</h1>
- <br/>
 
 
 ### Amozesh:دانشگاه پیام نورمرکز ورامین مهندس کامپیوتر
