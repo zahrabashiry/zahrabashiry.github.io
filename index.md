@@ -2,7 +2,7 @@
 
 ---
 tel  :09228055806 <br/>
-@gmail :zahrabashiry306@gmail.com
+mail :zahrabashiry306@gmail.com <br/>
 
 
 Quera site : https://guera.ir/profile/zahra361
