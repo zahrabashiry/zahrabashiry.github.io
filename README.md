@@ -1,6 +1,7 @@
-### <img src="https://github.com/zahrabashiry/zahrabashiry.github.io/blob/master/avatar-01%20(2).png">
+
 # zahrabashiry.github.io
-### rezume
+### <img src="https://github.com/zahrabashiry/zahrabashiry.github.io/blob/master/avatar-01%20(2).png">
+### rezu
 ---
 + نام:زهرابشیری
 + شماره دانشجویی:۹۵۰۲۴۹۵۷۶
