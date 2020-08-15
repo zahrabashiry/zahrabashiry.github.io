@@ -1,5 +1,4 @@
-
-### <img src="https://github.com/zahrabashiry/zahrabashiry.github.io/blob/master/WhatsApp%20Image%202020-08-15%20at%2018.31.57.jpeg">
+### <img src="https://github.com/zahrabashiry/zahrabashiry.github.io/blob/master/avatar-01%20(2).png">
 # zahrabashiry.github.io
 ### rezume
 ---
