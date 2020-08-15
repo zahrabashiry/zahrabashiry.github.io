@@ -12,4 +12,4 @@
 + مهارت کار با html
 + مهارت کار باcss
 ### سایت
-+ کوئرا [](https://quera.ir/profile/zahra361)
++ کوئرا [https://quera.ir/profile/zahra361]
