@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>galery</title>
+<title> galery </title>
 <meta name="discriptin" condect="zahrabashiry">
 <meta name="keyword" condect="tarah,web">
 </head>
