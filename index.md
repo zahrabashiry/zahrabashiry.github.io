@@ -19,6 +19,6 @@
 <p dir="rtl" align="right">طراحی سایت برنامه های فوتوشاپوافیس</p> <br/>
 ###  <h1 dir="rtl" align="right">اشنایی به زبان ها </h1> <br/>
 <p dir="rtl" align="right">فارسی وترکی </p> <br/> 
-###  <h1 dir="rtl" align="right"> اموزش </h1> <br/> 
+<h1 dir="rtl" align="right"> اموزش </h1> <br/> 
 <p dir="rtl" align="right">دانشگاه پیام نورمرکز ورامین </p> <br/>
 
