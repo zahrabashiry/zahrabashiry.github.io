@@ -1,7 +1,7 @@
 <img src="https://github.com/zahrabashiry/zahrabashiry.github.io/blob/master/avatar-01%20(2).png?raw=true">
 
 ---
- <p dir="rtl" align="right">### نام:زهرا </p> <br/>
+ ###<h1 dir="rtl" align="right"> مشخصات فردی</h1> <br/>
 <p dir="rtl" align="right">نام:زهرا </p> <br/>
 <p dir="rtl" align="right"> نام خانوادگی:بشیری خاوری </p> <br/>
 <p dir="rtl" align="right">تاریخ تولد:1376/7/18 </p> <br/>
