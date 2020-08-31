@@ -12,5 +12,14 @@
 <p  dir="rtl" style="text-align:right">:ایمیل:zahrabashiry306@gmail.com</p> <br/>
 quera : <a href="https://quera.ir/profile/zahra361">Link</a>
 <p  dir="rtl" style="text-align:right"> <a href="https://quera.ir/profile/zahra361">Link</a>:کوئرا</p> <br/>
-### Amozesh:دانشگاه پیام نورمرکز ورامین مهندس کامپیوتر
-shomare daneshgoii :950249576
+### <h1 dir="rtl" align="right"> بیانیه اغازین</h1> <br/>
+<p dir="rtl" align="right"> زهرا بشیری هستم دانشجوی رشته مهندسی کامپیوتر درحال یادگیری طراحی سایت خارج از دانشگاه تسلط به برنامه های افیس اهل فعالیت  </p> <br/>
+### <h1 dir="rtl" align="right">سوابق تحصیلی </h1> <br/>
+<p dir="rtl" align="right">کارشناسی مهندسی کامپیوتر</p> <br/>
+### <h1 dir="rtl" align="right">مهرت های فنی وتخصصی </h1> <br/> 
+<p dir="rtl" align="right">طراحی سایت برنامه های فوتوشاپوافیس</p> <br/>
+### <h1 dir="rtl" align="right">اشنایی به زبان ها </h1> <br/>
+<p dir="rtl" align="right">فارسی وترکی </p> <br/> 
+### <h1 dir="rtl" align="right"> اموزش </h1> <br/> 
+<p dir="rtl" align="right">دانشگاه پیام نورمرکز ورامین </p> <br/>
+
