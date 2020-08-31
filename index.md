@@ -3,6 +3,10 @@
 ---
 <p dir="rtl" align="right">نام:زهرا </p> <br/>
 <p dir="rtl" align="right"> نام خانوادگی:بشیری خاوری </p> <br/>
+<p dir="rtl" align="right">تاریخ تولد:1376/7/18 </p> <br/>
+<p dir="rtl" align="right">وضعیت تاهل:مجرد </p> <br/>
+<p dir="rtl" align="right">وضعیت اشتغال:ازاد </p> <br/>
+<p dir="rtl" align="right">شماره تماس:09228055806 </p> <br/>
 tel  :09228055806 <br/>
 mail :zahrabashiry306@gmail.com <br/>
 quera : <a href="https://quera.ir/profile/zahra361">Link</a>
