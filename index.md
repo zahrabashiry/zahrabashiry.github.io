@@ -9,8 +9,8 @@
 <p dir="rtl" align="right">وضعیت اشتغال:ازاد </p> <br/>
 <p dir="rtl" align="right">شماره تماس:09228055806 </p> <br/>
 <p dir="rtl" align="right">محل سکونت:تهران </p> <br/>
-<p  dir="rtl" style="text-align:right">:ایمیلzahrabashiry306@gmail.com</p> <br/>
+<p  dir="rtl" style="text-align:right">:ایمیل:zahrabashiry306@gmail.com</p> <br/>
 quera : <a href="https://quera.ir/profile/zahra361">Link</a>
-<p  dir="rtl" style="text-align:right"> <a href="https://quera.ir/profile/zahra361">Link</a>quera:</p> <br/>
+<p  dir="rtl" style="text-align:right"> <a href="https://quera.ir/profile/zahra361">Link</a>:کوئرا</p> <br/>
 ### Amozesh:دانشگاه پیام نورمرکز ورامین مهندس کامپیوتر
 shomare daneshgoii :950249576
