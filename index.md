@@ -10,7 +10,6 @@
 <p dir="rtl" align="right">شماره تماس:09228055806 </p> <br/>
 <p dir="rtl" align="right">محل سکونت:تهران </p> <br/>
 <p  dir="rtl" style="text-align:right">:ایمیل:zahrabashiry306@gmail.com</p> <br/>
-quera : <a href="https://quera.ir/profile/zahra361">Link</a>
 <p  dir="rtl" style="text-align:right"> <a href="https://quera.ir/profile/zahra361">Link</a>:کوئرا</p> <br/>
 ### <h1 dir="rtl" align="right"> بیانیه اغازین</h1> <br/>
 <p dir="rtl" align="right"> زهرا بشیری هستم دانشجوی رشته مهندسی کامپیوتر درحال یادگیری طراحی سایت خارج از دانشگاه تسلط به برنامه های افیس اهل فعالیت  </p> <br/>
