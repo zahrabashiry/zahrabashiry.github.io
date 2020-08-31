@@ -7,8 +7,9 @@
 <p dir="rtl" align="right">وضعیت تاهل:مجرد </p> <br/>
 <p dir="rtl" align="right">وضعیت اشتغال:ازاد </p> <br/>
 <p dir="rtl" align="right">شماره تماس:09228055806 </p> <br/>
-tel  :09228055806 <br/>
-mail :zahrabashiry306@gmail.com <br/>
+<p dir="rtl" align="right">محل سکونت:تهران </p> <br/>
+<p dir="rtl" align="right">zahrabashiry306@gmail.com:ایمیل </p> <br/>
+
 quera : <a href="https://quera.ir/profile/zahra361">Link</a>
 
 ### Amozesh:دانشگاه پیام نورمرکز ورامین مهندس کامپیوتر
