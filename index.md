@@ -1,7 +1,7 @@
 <img src="https://github.com/zahrabashiry/zahrabashiry.github.io/blob/master/avatar-01%20(2).png?raw=true">
 
 ---
-<p dir="rtl" align="right">راستچین و مناسب فارسی</p> <br/>
+<p dir="rtl" align="right">نام:زهرا </p> <br/>
 
 tel  :09228055806 <br/>
 mail :zahrabashiry306@gmail.com <br/>
