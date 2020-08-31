@@ -9,7 +9,7 @@
 <p dir="rtl" align="right">شماره تماس:09228055806 </p> <br/>
 <p dir="rtl" align="right">محل سکونت:تهران </p> <br/>
 <p dir="rtl" align="right">zahrabashiry306@gmail.com:ایمیل </p> <br/>
-
+<p style="text-align:right">zahrabashiry306@gmail.com:ایمیل</p>
 quera : <a href="https://quera.ir/profile/zahra361">Link</a>
 
 ### Amozesh:دانشگاه پیام نورمرکز ورامین مهندس کامپیوتر
