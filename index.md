@@ -2,7 +2,7 @@
 
 ---
 <p dir="rtl" align="right">نام:زهرا </p> <br/>
-
+<p dir="rtl" align="right"> نام خانوادگی:بشیری خاوری </p> <br/>
 tel  :09228055806 <br/>
 mail :zahrabashiry306@gmail.com <br/>
 quera : <a href="https://quera.ir/profile/zahra361">Link</a>
