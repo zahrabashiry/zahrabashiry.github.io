@@ -1,5 +1,4 @@
-<center><img src="https://github.com/zahrabashiry/zahrabashiry.github.io/blob/master/avatar-01%20(2).png?raw=true">
-</center>
+<img src="https://github.com/zahrabashiry/zahrabashiry.github.io/blob/master/avatar-01%20(2).png?raw=true">
 ---
  ### <h1 dir="rtl" align="right"> مشخصات فردی</h1> <br/>
 <p dir="rtl" align="right">نام:زهرا </p> <br/>
